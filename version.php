@@ -36,4 +36,9 @@ $version  = 2011120504.00;              // 20111205      = branching date YYYYMM
 
 $release  = '2.2.4 (Build: 20120706)'; // Human-friendly version name
 
+$hola = 'holaaa q taal';
+
+if $hola == 'holaa q taal'
+	print 'holaa';
+
 $maturity = MATURITY_STABLE;            // this version's maturity level
